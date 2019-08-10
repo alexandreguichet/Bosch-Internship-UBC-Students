@@ -123,12 +123,14 @@ NOTE: Ok. I'm a US citizen though. Why do I need to go all the way to Toronto to
 <b>Option Zwei:</b> 
 Arrive in Germany at least a month before you are scheduled to begin your work term at Bosch. As a US citizen, you can reside in Germany for up to 90 days without a visa. Upon arriving, immediately contact the Ausländerbehörde (aka the Foreigners Authority) to set up an appointment for your residence application. There is a specific phone number you can call based on your last name or you can submit an email requesting an appointment. To find this number and more information about setting up an appointment, visit this website. It is incredibly important when you request an appointment that you stress the time sensitivity of your situation. Include that you are a US citizen, a student trying to start an internship, and when you are scheduled to start employment. Typically, appointments can take months to schedule. But by pleading your case in your first communications, they will usually work to schedule your appointment within a month.
 
-Once you have an appointment scheduled, you will receive a list of documents to submit. These may include: 
-Antragsformular (application form), 
-Praktikumsvertrag (employment contract), 
-Zustimmung der Agentur für Arbeit (ZAV) (approval from the employment agency),
-aktueller Wohnraumnachweis vom Eigentümer unterzeichnet und Kopie Mietvertrag (your housing certificate signed by the person owning the property and your rental contract),
-and aktueller Krankenversicherungsnachweis (proof of health insurance coverage in Germany). 
+Once you have an appointment scheduled, you will receive a list of documents to submit. These may include:
+<ul>
+ <li>Antragsformular (application form),</li> 
+ <li>Praktikumsvertrag (employment contract),</li>
+ <li>Zustimmung der Agentur für Arbeit (ZAV) (approval from the employment agency),</li> 
+ <li>aktueller Wohnraumnachweis vom Eigentümer unterzeichnet und Kopie Mietvertrag (your housing certificate signed by the person owning the property and your rental contract),</li> 
+ <li>and aktueller Krankenversicherungsnachweis (proof of health insurance coverage in Germany).</li>
+ </ul>
 
 Typically, you will be asked to submit these documents via email prior to your appointment date.
 
@@ -137,11 +139,12 @@ NOTE: Make sure your employment contract lists the correct start and end dates o
 NOTE: The proof of health insurance coverage in Germany can be difficult to obtain. In some cases, you may need to have your insurance company sign a form. Once you receive the form from the German authorities, immediately begin the process of contacting your insurance to sign the form. Without the signed form, they will not grant you a residence permit regardless of the other documentation you provide to prove your health insurance.
 
 To the appointment, make sure to bring with you:
-a printed version of the documents you were asked to submit if possible, 
-your passport, 
-two biometric photos (the restrictions for these photos can be found here), 
-and the fee for the permit.
- 
+<ul>
+ <li>a printed version of the documents you were asked to submit if possible,</li> 
+ <li>your passport,</li> 
+ <li>two biometric photos (the restrictions for these photos can be found here),</li> 
+ <li>and the fee for the permit.</li>
+</ul> 
 
 <h3 id="looking_for_house"> 1.3 Looking for housing before arriving </h3>
 
