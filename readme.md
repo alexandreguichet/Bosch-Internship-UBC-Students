@@ -142,7 +142,7 @@ To the appointment, make sure to bring with you:
 <ul>
  <li>a printed version of the documents you were asked to submit if possible,</li> 
  <li>your passport,</li> 
- <li>two biometric photos (the restrictions for these photos can be found here),</li> 
+ <li>two biometric photos (the restrictions for these photos can be found <a href="https://www.schengenvisainfo.com/photo-requirements/">here</a>),</li> 
  <li>and the fee for the permit.</li>
 </ul> 
 
