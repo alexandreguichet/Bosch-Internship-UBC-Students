@@ -63,6 +63,7 @@ If you are currently in Stuttgart and would like to update this page, please xyz
    <li><a href = "#getting_paid"> 3.1 Getting paid at Bosch </a></li>
    <li><a href = "#food"> 3.2 Food - Intern Discount</a></li>
    <li><a href = "#flex_time"> 3.3 Flex time/Vacation</a></li>
+   <li><a href = "#dress_code"> 3.4 Dressing like a Bosch</a></li>
   </ul>
   </li>
  <li> <a href = "#learning_german"> 4. Learning German</a>
@@ -397,11 +398,11 @@ This is also a good option. You get 2.4GB for 15€.
 <h3 id="getting_paid"> 3.1 Getting Paid at Bosch </h3>
 <p> The first day of work your supervisor will send you an “intern welcome” email. In this email, there will be a link to a form that you NEED to submit to HR as soon as possible in order to get paid. PLEASE FILL THE GERMAN FORM. THE ENGLISH FORM WILL NOT BE ACCEPTED BY HR AND YOU WON’T BE PAID. This form will ask you for your Identifikationsnummer. See section X for how to get your hands on this very important 11-digit number.  Why is this Identifikationsnummer important? Part of it refers to your tax class. In Germany, there are different tax classes, and without a tax number provided by the Rathaus you’ll be charged at the highest rate. And yeah… losing 120€ at the end of your first month isn’t the most pleasant experience. So please, make sure you are prepared with your Identifikationsnummer. </p>
 
-IMPORTANT: They will only pay you after your first full month. If you begin work at Bosch September 15th, you will get paid at the end of October for a month and a half of work.  Avoid making this mistake and begging them for money (#notfun).
+<b>IMPORTANT:</b> They will only pay you after your first full month. If you begin work at Bosch September 15th, you will get paid at the end of October for a month and a half of work.  Avoid making this mistake and begging them for money (#notfun).
 
 <h3 id="food"> 3.2 Food - Intern Discount </h3>
 
-Don’t worry about bringing lunch with you. At Renningen, there is a cafeteria where everyone eats. It’s open weekdays from 11:30-14:30. As an intern, you receive a discount of X.XX€ on every meal. Depending on what you choose to eat, you typically spend 1.30€ to 3€ per meal. You pay for food with your Bosch ID card. Your balance can be refilled with cash at the kiosk directly outside the cafeteria.  
+Don’t worry about bringing lunch with you. At Renningen, there is a cafeteria where everyone eats. It’s open weekdays from 11:30-14:30. As an intern, you receive a discount of X.XX€ on every meal. Depending on what you choose to eat, you typically spend 1.30€ to 5€ per meal. You pay for food with your Bosch ID card. Your balance can be refilled with cash at the kiosk directly outside the cafeteria.  
 
 <h4>Cafe</h4>
 
@@ -413,16 +414,20 @@ There’s free coffee, milk and sugar in your office! You can make yourself espr
 
 <h4> Fun fact </h4>
 
-On the building 131 floor 2, if ever you forget to lock your computer and someone sees it. He'll send an email to the whole floor saying you will bring cake. Yeah... don't forget to lock your computer or you'll have to bring cake for everyone!
+If ever you forget to lock your computer at work and someone sees it, they'll send an email to the whole floor saying you will bring cake. And yes, you’ll be held accountable to bring in cake. Yeah... don't forget to lock your computer or you'll have to bring cake for everyone!
 
 
 <h3 id="flex_time"> 3.3 Flex time/Vacation </h3>
 
-Each day, you are expected to work 7 hours and take 45 minutes for lunch and breaks. Due to German law, you may not work longer than 10 hours. Your working time is tracked when you tap your card upon arrival to Bosch and when you tap out at the end of the day. You can find all of this documented in the your Time Management page within Bosch’s internal HR pages. You can also adjust your break time to up to an hour. 
+Each day, you are expected to work 7 hours and take 45 minutes for lunch and breaks. Due to German law, you may not work longer than 10 hours. Your working time is tracked when you tap your card upon arrival to Bosch and when you tap out at the end of the day. You can find all of this documented in the your Time Management page within Bosch’s internal HR pages. You can also adjust your break time from 45 minutes to up to 1 hour. 
 
-Flex time is the time management schedule the interns are working with. In order to avoid paying interns for overtime, Bosch will instead “store” the hours you have to be redeemed. An example would be: if one day you work 10h, the other day you can leave work early after 5h30 in. As long as the combined time for two days is 15h30, you will be fine. That also means that if you work 10h per day (monday, tuesday, wednesday and thursday), you can have a 3-day weekend by using your flex time instead of your vacation time! In the Time Management page, when you take a day off of work, you create an entry and specify if the time off is vacation or flex-time. 
+Flex time is the time management system employed by Bosch. In order to avoid paying interns for overtime, Bosch stores any hours you work beyond the required 7 hours. For example, one day you work 10 hours and take 45 minutes of breaks, then the next day you leave after working for 4 hours and taking 45 minutes of breaks. As long as the combined work time for the two days is 14 hours, you’re in the green. This also means that if you work 10h per day for four days, you can have a 3-day weekend by using your flex time instead of your vacation time! In the Time Management page, when you take a day off of work, you create an entry and specify if the time off is vacation or flex-time. 
 
-Depending on the length of your internship, you’ll receive some vacation days which can be found in your contract. 
+Depending on the length of your internship, you’ll receive some vacation days which can be found in your contract.
+
+<h3 id="dress_code"> 3.4 Dressing like a Bosch <h/h3>
+ 
+Expect business casual, with an emphasis on casual. While some colleagues will dress up daily (think button-down shirts with dress pants and leather shoes), it is ok to wear jeans and a t-shirt. If you’re working in a clean room, you must wear pants or shorts to work, with closed toed shoes.
 
 <h2 id="learning_german"> 4. Learning German </h2>
 
