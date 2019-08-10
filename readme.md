@@ -138,13 +138,14 @@ NOTE: Make sure your employment contract lists the correct start and end dates o
 
 NOTE: The proof of health insurance coverage in Germany can be difficult to obtain. In some cases, you may need to have your insurance company sign a form. Once you receive the form from the German authorities, immediately begin the process of contacting your insurance to sign the form. Without the signed form, they will not grant you a residence permit regardless of the other documentation you provide to prove your health insurance.
 
-To the appointment, make sure to bring with you:
+To the appointment, bring with you:
 <ul>
- <li>a printed version of the documents you were asked to submit if possible,</li> 
- <li>your passport,</li> 
- <li>two biometric photos (the restrictions for these photos can be found <a href="https://www.schengenvisainfo.com/photo-requirements/">here</a>),</li> 
+ <li>a printed version of the documents you were asked to submit if possible,</li>
+your passport, 
+ <li>two biometric photos (the restrictions for these photos can be found here),</li>
  <li>and the fee for the permit.</li>
-</ul> 
+</ul>
+
 
 <h3 id="looking_for_house"> 1.3 Looking for housing before arriving </h3>
 
@@ -152,31 +153,52 @@ To the appointment, make sure to bring with you:
 
 <h2 id="settling_stuttgart"> 2. Settling Down in Stuttgart </h2>
 
-Arriving in Stuttgart can be stressful since most of us are not europeans nor speak German. This section contains tips and ressources that you could use to "easy" your settling and start enjoying a life without problems... and administration. For records, it took Sophia and I about a months to fully settle down here. A... Stressful month. I would recommand to arrive in Stuttgart one or two week before your internship starts so you can deal with the housing/phone/bank. 
+Arriving in Stuttgart can be stressful. Most of us are not Europeans and don’t speak German (yet!). This section contains tips and resources to help you ease into German life with minimal issues. For some of us, it took a whole stressful month to settle down - avoid this by reading these sections. We recommend arriving in Stuttgart one to two weeks before your internship starts. This allows you time to find housing, establish a bank account, and set-up a German phone number. 
 
 <h3 id="find_place"> 2.1 Find a place </h3>
 
-The most important thing to know before you start looking for a place to stay at is commute and the transport system (Refer to section <a href="#commuting"> 2.2</a>).
-It is encouraged to house hunt in person instead of doing it from the Canada. There sometimes is scams happening and being present to visit the place is preferable (even if you don't speak German). 
+Before you begin looking for a place to stay, get familiar with your commute and transportation options to Bosch and around Stuttgart (Refer to section <a href="#commuting"> 2.2</a>).
+This will help you establish what areas of town you want to look for housing in. It is encouraged to house hunt in-person instead of from the Canada. Scams can happen, but are much less likely if you are able to visit a place in-person before signing anything. 
 
-For example, Sophia and I visited an attractive place in Renningen mid-May, just to learn afterward that the renting started early August. 
+For example, we visited an attractive place in Renningen mid-May, just to learn during the visit that the rental period began in early August.
+ 
 
 <h4 id="air_bnb"> 2.1.1 Air Bnb </h4>
 
-Air bnb is always a great ressource to quickly find a transition place until you get your appartment/room. People hosting you are usually really kind and are willing to help you out with your translations/house registration/etc. You can get familiar with the city without stressing over a logement. 
+Airbnb is a great resource to quickly find a transition place until you get an apartment or more permanent room. Hosts are usually incredibly kind and can be willing to help you out with language translations/housing registration/etc. You can get familiar with the city without stressing over accommodations. 
 
 <h4 id="stuttgart_lonberg"> 2.1.2 Stuttgart and other areas </h4>
 
-Stuttgart might sound attractive but it is EXTREMELY expensive. More than half our poor salary can go for rent if we're not careful. Chosing a place closer to Renningen might be a good choice. We would recommand Leonberg and it's environt. Wie-der-Stadt could also be a good choice (only two S-bahn station away). 
+Living in and around Stuttgart can be expensive. More than half of our salary can go for rent if we're not careful. Places near downtown (Stadmitte) are EXTREMELY expensive. Renningen, the town closest to Bosch’s campus, is a great location. Unfortunately, housing is very expensive there too. This is due to two main economic factors: the Bosch campus (1200 employees) and the American military base. Many people are moving in and out of Renningen regularly causing rents to skyrocket. 
 
-Finding a place in Renningen would be best but also expensive. This is due that the two main economic actors in Renningen are Bosch (1200 employees) and the American military base. As a result people move a lot in and out of Renningen so the prices goes up.
+We recommend Leonburg due to its environment and location. A place near Wie-der-Stadt, an S-bahn station two stops away from Renningen, is also a good option.
+
   
 <h4 id="renting"> 2.1.3 Renting </h4>
 
-Finding a place to live in Stuttgart when we live 5000km away can be… quite challenging. Where do we start? Who are we contacting? How? We’ll try to answer these questions in this section. 
+Finding a place to live in Stuttgart when you’re 5000km away can be quite challenging. Where to start? Who to contact? How? We’ll try to answer these questions in this section. 
 
 <h5> Student Housing </h5>
-<Mahdin/Anand>
+
+Student dorms is a very cheap option. However, they are also extremely difficult to get. Check out <a href="https://www.studierendenwerk-stuttgart.de/en/accommodation/">this</a>)website for more information, listings, and applications. There are a number of dorms around Stuttgart city centre and in other cities like Ludwigsberg. You must apply online. Although it says applications should be made 6 months in advance, there is still hope if you’re looking for housing in the middle of the semester (i.e. January). After applying online, email them and sound as desperate as possible. Email address can be found in the contact section of the website. Email address of Neckarstasse 172 : ADD HERE. This has been successful for a few of us so far. If you are in Germany, go to their office and talk to them. Office address: ADD HERE.
+
+Pros:
+<ul>
+ <li>Cheaper than anything else in Stuttgart. Prices range from 230€ - 400€ including utilities</li>
+<li>Usually have large communal kitchens. This can be the best place to throw parties and play beer pong</li>
+ <li>Everyone living here is a student, so you get invited to parties and meet new people</li>
+ <li>Safe</li>
+ <li>Don't have to deal with landlords</li>
+ <li>All the locations are near the city centre</li>
+ </ul>
+
+Cons:
+<ul>
+ <li>You will have to share the kitchen and the bathroom with 5-8 other roommates</li>
+ <li>Rooms are small</li>
+<li>You can only rent for 6 months (Some of us have had luck renting for longer by going to the office and talking to them)</li>
+
+
 <h5> Bosch Housing </h5>
 
 <Anyone who can help>
