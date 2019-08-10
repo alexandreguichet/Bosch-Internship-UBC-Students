@@ -142,7 +142,7 @@ To the appointment, bring with you:
 <ul>
  <li>a printed version of the documents you were asked to submit if possible,</li>
 your passport, 
- <li>two biometric photos (the restrictions for these photos can be found here),</li>
+ <li>two biometric photos (the restrictions for these photos can be found <a href="https://www.schengenvisainfo.com/photo-requirements/">here</a>),</li>
  <li>and the fee for the permit.</li>
 </ul>
 
@@ -180,7 +180,7 @@ Finding a place to live in Stuttgart when you’re 5000km away can be quite chal
 
 <h5> Student Housing </h5>
 
-Student dorms is a very cheap option. However, they are also extremely difficult to get. Check out <a href="https://www.studierendenwerk-stuttgart.de/en/accommodation/">this</a>)website for more information, listings, and applications. There are a number of dorms around Stuttgart city centre and in other cities like Ludwigsberg. You must apply online. Although it says applications should be made 6 months in advance, there is still hope if you’re looking for housing in the middle of the semester (i.e. January). After applying online, email them and sound as desperate as possible. Email address can be found in the contact section of the website. Email address of Neckarstasse 172 : ADD HERE. This has been successful for a few of us so far. If you are in Germany, go to their office and talk to them. Office address: ADD HERE.
+Student dorms is a very cheap option. However, they are also extremely difficult to get. Check out <a href="https://www.studierendenwerk-stuttgart.de/en/accommodation/">this</a>website for more information, listings, and applications. There are a number of dorms around Stuttgart city centre and in other cities like Ludwigsberg. You must apply online. Although it says applications should be made 6 months in advance, there is still hope if you’re looking for housing in the middle of the semester (i.e. January). After applying online, email them and sound as desperate as possible. Email address can be found in the contact section of the website. Email address of Neckarstasse 172 : ADD HERE. This has been successful for a few of us so far. If you are in Germany, go to their office and talk to them. Office address: ADD HERE.
 
 Pros:
 <ul>
