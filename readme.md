@@ -312,17 +312,17 @@ If you are using the City-Link (which you should), then you can buy the monthly 
 
 <h4 id="driving"> 2.2.4 Driving </h4>
 
-For thoses are tempted to use a car around Stuttgart there are few things you need to know. First of I would say it is worth for many reasons (cheaper than commuting, SPLTr,  travels to black forest/europe/etc., hollidays with other interns, live closer to work, etc.). However, Germany has some STRICT ecological restriction regarding diesel cars allowed in certain areas. 
+For thoses are tempted to use a car around Stuttgart there are few things you need to know. It can be worth it to have a car for many reasons: cheaper commute, you can be a driver on SPLTr, you can easily travel to the Black Forest and the rest of Europe, you can take holidays with other interns, and live closer to work. However, Germany has some STRICT environmental restrictions regarding diesel cars allowed in certain areas.
 
-There is an environment restriction for diesel cars. Some diesel cars are not allowed to drive in certain zones. The fine is 80€. This is rather serious as in some areas the air quality is extremely bad. The restriction is about the particle emissions (how the engine burns the fuel) so there is nothing we could do about it. 
+Some diesel cars are not allowed to drive in certain zones. The fine for doing so is 80€. The restrictions are in place to increase air quality and are based on how the car engine burns fuel, emitting particles.
 
-<b> IMPORTANT NOTE: The restriction is ONLY about diesel cars. Gasole cars can drive freely no matter how fuel efficient they are.</b>
+<b> IMPORTANT NOTE: The restriction is ONLY for cars with diesel engines. Gasoline cars can drive freely no matter how fuel efficient they are.</b>
 
-Currently the only diesel cars allowed to drive in Stuttgart/Leonberg are thoses with a EURO-class of 5 or more, however the change from "class 4" to "class 5" is relatively new so there is a transition period (I am currently driving an EURO-class 4 and do not have problems with it). For the sake of the environment we'll highly recommand anyone who plans on buying/renting/using a car in this area to follow the environmental norms. 
+Currently the only diesel cars allowed to drive in Stuttgart and Leonberg are those with a EURO-class of 5 or more, however the change from "class 4" to "class 5" is relatively new so there is a transition period (I am currently driving an EURO-class 4 and do not have problems with it). For the sake of the environment we'll highly recommend anyone who plans on buying/renting/using a car in this area to follow the environmental norms.
 
 ![](assets/images/umwelt-plakette.jpg)
 
-If you are driving a diesel car, you will need a Umwelt-Plakette. You can buy them at any car retail store (7€) or any civil office. You will only need to bring your car papers with your driving license, there isn no further document required. 
+If you are driving a diesel car, you will need a Umwelt-Plakette. You can buy them at any car retail store (7€) or any civil office (aka Rathaus). You will need to bring your car papers with your driving license to obtain the Umwelt-Plakette.
 
 Info: 
 <br/>
@@ -339,7 +339,7 @@ Info:
 
 <p>You need to open a German bank account to get paid. No, you cannot use your Canadain/US/French account instead. Banking in German is a bit different than in Canada. There’s no Interac Transfer and the process is a bit more complicated (i.e. more paperwork). Below are some options with the pros and cons that we’ve learned along the way.</p>
 
-<h4 id="bank_2"> 2.3.1 Go to Deutsche Bank (need better title) </h4>
+<h4 id="bank_2"> 2.3.1 Deutsche Bank </h4>
 
 <h5> Opening an Account </h5>
 <p>While working at Bosch, you can open a Deutsche Bank account for free. Make an appointment online or via phone at a branch close to you. Make sure to bring along your passport, Bosch work contract, and residence registration to the appointment. In roughly 2 meetings with an advisor, you can have a fully working bank account with a debit card ordered.</p>
@@ -347,13 +347,24 @@ Info:
 <p><b>NOTE:</b> If you’re a US citizen, you’ll also need your SSN and will be asked to fill out a tax form for the US government. Ask to fill out this form during the appointment. You won’t need to go through the hassle of printing the form, mailing it in or stopping by the specific bank branch again.</p>
 
 <h5> Pros with Deutsche Bank</h5>
-<li>Their customer service is top notch</li>
-<li>You can withdraw cash from ATMs around Europe without fees at select banks. You can also withdraw cash from your ScotiaBank account without fees from Deutsche Bank ATMs (regardless of if you have an account with Deutsche Bank)</li>
-<li>Online banking. Their phone app is efficient and they’ll help you set everything up in person if you request a meeting</li>
+<li>Their customer service is top notch.</li>
+<li>You can withdraw cash from ATMs around Europe without fees at select banks. You can also withdraw cash from your ScotiaBank account without fees from Deutsche Bank ATMs (regardless of if you have an account with Deutsche Bank).</li>
+<li>Online banking. Their phone app is efficient and they’ll help you set everything up in-person if you request a meeting.</li>
  
 <h4 id="other_banks"> 2.3.2 Other Banks </h4> 
 <h5> N26 </h5>
-<p> Anand to fill this section. How to set up an account? Pros and cons of using this bank. </p>
+<p> N26 offers an easy to set-up bank account, designed specifically for international people settling down for the first time in Germany. To set up the account, you need to fill in the online registration form, then complete their online ID verification which will require your passport, and then pair your smartphone to your account. N26 has no physical branch, so everything is done online. </p>
+
+<h5> Pros with N26</h5>
+<li>Their set up is incredibly easy.</li>
+<li>You can withdraw cash from all ATMs which accept mastercard.</li>
+<li>Online banking. Their phone app is efficient and can be used for all banking needs.</li>
+<li>You can withdraw cash from supermarkets and other vendors with a QR code</li>
+
+<h5> Cons with N26</h5>
+<li>Depending on the account, you only get 5 ATM withdrawals in Germany per month for free, any German ATM withdrawals after this will be charged.</li>
+<li>You can only deposit cash through a supermarket or vendor.</li>
+
 <h5> Commerzbank </h5>
 <p>From our experiences, Commerzbank is very frustrating to open an account with. While you can try and open an account online without an appointment, you will end up having to prove your identity (bring your passport) at a PostBank or in-person unless you’re a German citizen. If they need to send you your ATM card more than once, they will charge you 5€ each time they send it. They will also charge you when they send you correspondence through the mail. 
 
