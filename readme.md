@@ -198,10 +198,9 @@ Cons:
  <li>Rooms are small</li>
 <li>You can only rent for 6 months (Some of us have had luck renting for longer by going to the office and talking to them)</li>
 
-
 <h5> Bosch Housing </h5>
 
- Bosch sent you a list of <i> available accomodations </i> in your contract... in German. But hey... it still helps and is a great place to start.
+Bosch sent you a list of <i> available accomodations </i> in your contract... in German. But hey... it still helps and is a great place to start.
 
 <h5> Own Apartment </h5>
 
@@ -210,7 +209,7 @@ There are two options when you look for your own studio/room. Option one: look o
 
 In any case, visit the apartments/houses IN-PERSON before signing a rental contract and/or a paying deposit... for many reasons we’ll explain in a section below [link to section].
 
-<h6> “Agencies” </h6>
+<h6> Rental Agencies </h6>
 
 One might think that contacting an agency would be a good move… and one is right. Agencies are a good resource to help you find a reliable place. They have quality standards and are only renting places where they have a contract with the owner.  
 
@@ -241,47 +240,59 @@ Link to websites:
 <br/>
 <h5 id="house_registration"> Housing registration </h5>
 
+Once you’ve found a place to live, signed a rental agreement, and paid your deposit, it’s time to register your housing. Regardless of if you’re a German citizen or an international citizen, everyone must register their place of residence within Germany. To register, bring your passport and signed rental contract to your closest Rathaus (civil office - kind of like a city hall). By completing your housing registration, you’ll also receive an Identifikationsnummer (the German version of a Canadain SIN or an American SSN) in the snailmail. See section X for why this is important. If you don’t receive your Identifikationsnummer in a timely manner, you can pay the Rathaus another visit and directly request it. They should be able to print it out for you on the spot if your housing registration was completed during an earlier visit. 
+
+NOTE: Before leaving Germany, don’t forget to deregister! 
+
 <h3 id="commuting"> 2.2 Commuting </h3>
 
-Commuting to work is maybe the parameter that will most impact your life in Germany. The choice between a 30min and a 1h30 long commute is easy to make (at least for me). The first option allows one to have more free-time. The condition in which you commute is also important. Would you rather have a 1h30 long bus ride with wifi or a 1h30 long train ride with 3 train changement and no wifi nor AC. This section is here to help you understand how stuttgart train system works and how you can easily travel to your work place without losing time/energy.
+CCommuting to work may be the parameter that will impact your life most in Germany. Would you rather spend 30 minutes or an hour and 30 minutes commuting? The condition in which you commute is also important. Would you rather have an hour long bus ride with wifi or an hour and 30 minutes of commuting with 3 train transfers and no wifi nor AC. This section is here to help you understand how you can travel around Stuttgart easily and travel to Bosch with minimal energy and time.
 
 <h4 id = "city_link"> 2.2.1 City-Link </h4>
 
-The City-Link will be your favourite ressource! City-Link is a commuting system by Bosch. 
+The City-Link will be your favourite resource! 
 
-City-link is two FREE buses for employees living in Stuttgart downtown. The Bus is direct to Renningen and can pick people up at two bus stops> Rotebühlplatz and Swartzstraße. The buses have wifi and AC. This is a free service provided by Bosch... and honestly it is a life saver. It allows people who does not want to spend 300€ for a student travel pass to still be able to live in Stuttgart Downtown. 
+City-Link is a free bus line offered by Bosch, picking up from downtown Stuttgart (at Rotebühlplatz and Swartzstraße), and delivering you directly to the Renningen campus.
+
+If you don’t want to spend 300€ on a student travel pass (similar to Vancouver’s Compass card) and still live in downtown Stuttgart, this is the way to go.
+ 
 
 PROS: 
 <li> Free </li>
-<li> Fast (40 min from Downtown) </li>
+<li> Fast (40 min from Downtown to Renningen) </li>
 <li> Wifi + AC </li>
 <li> Several buses per the day </li><br/>
 CONS: <br/><br/>
  <&#39none> <br/><br/>
  
-NOTE: You will not be able ot find any information about the city link online. This is a service we usually learn about when we arrive. However we belive it should be known beforehand as it would have changed our house hunting plans. 
+NOTE: You won’t be able to take the City-Link to get to work on your first day. You must have your Bosch ID card to board the bus, so plan an alternative transportation method. 
+ 
+NOTE 2: You will not be able to find any information about the City-Link online. This is a service we usually learn about when we arrive. However, we believe it should be known beforehand as it would have changed our house hunting plans.
 <a href="https://www.instagram.com/klingelreisen/p/BpFZSM1nGyR/"> City-Link-beautiful-picture-found-online </a>
 
-NOTE 2: I only know about Bosch Renningen but I bet other location will have something similar. Feel free to (try to) contact other interns at other location to ask for it. If it exist, please contact me so I can edit the document. 
+NOTE 3: We only know about the Bosch Renningen City-Link, but we bet other Bosch campus locations will have something similar. Feel free to try to contact other interns at other locations to ask. If it exists, please contact me so I can edit the document. 
 
 <h4 id="splr"> 2.2.2 SPLTr </h4>
 
-SPTLr is another ressource from Bosch to help employees to commute to work. SPTLr is a car share app that allows anyone using it to either register as Driver or Guest. That allows employees living in remote areas to commute together in order to reduce the costs (and carbon footprint). The app is relatively new and still need improvement as not many people is using it. However that can still be a ressource worth looking into. 
+SPTLr is another resource from Bosch to help employees to commute to work. SPTLr is a car share app that allows anyone using it to either register as a river or a guest. The app connects employees living in remote areas to commute together in order to reduce the costs (and their carbon footprint). The app is relatively new and still needs improvement. However this can still be a resource worth looking into. 
 
 PROS:
-<li> Car share: you can register as driver to reduce your expenses or guest to join a driver </li>
-<li> Locations: buses/train can be annoying from time to time and the car share system is allowing to bypass that </li>
-<li> Social: it can be good to force you to practice German, every day for your commute </li>
-<li> Money: pay directly from the app so you don't have to do anything in this regard </li><br/>
+<li> Car share: You can register as a driver to reduce your expenses or guest to join a driver. </li>
+<li> Locations: Public transportation can be annoying from time to time. This car share system can be more tailored to your location for convenience. </li>
+<li> Social: You may end up practicing your German during your commute, or connecting with someone you may have never otherwise met. </li>
+<li> Money: As a guest you pay the driver and as a driver, you receive payment. This is all carried out in the app, making it easy to calculate costs based on distances. </li><br/>
 
 CONS: 
-<li> Users: not many  </li>
-<li> App: app design isn't the most intuitive and it is also relatively new </li>
-<li> Registration: you need a Bosch email address, you can register to it only after starting work </li><br/>
+<li> Users: Not many  </li>
+<li> App: The app is new and its design isn't the most intuitive </li>
+<li> Registration: This requires a Bosch email address. You can register for it only after starting work
+ </li><br/>
 
-SPLTr will probably become onof the best commuting car sharing apps for the Bosch community. However, I would not rely on it when house hunting
+SPLTr will probably become one of the best commuting car sharing apps for the Bosch community. However, we would not recommend on relying on it when house hunting.
 
 <h4 id="s_bahn"> 2.2.3 S-Bahn/U-Bahn </h4>
+
+U-Bahns and S-Bahns (basically subways) make up Stuttgart’s public transportation system, along with a few buses. U-bahns are typically shorter, smaller trains while S-Bahns are bigger and travel further distances.
 
 The S-Bahn transport map: 
 <br/>
@@ -291,9 +302,13 @@ The U-Bahn transport map:
 <br/>
 ![](assets/images/stuttgart-u-bahn-map.jpg)
 
-It is important to know that the cost to travel in zone 1 is 2.50€ (2.37€ if you pass by the official VVS app, internet required). The cost to travel to Renningen from Stadtmitte is ~5.50€ (~11.00€ for a two way traject). The cheapest option is to travel in zone one to take the city-link. 
+It’s important to know that the cost to travel in zone one. If you purchase your ticket at a train station, traveling within zone one will cost 2.50€. If you purchase it from the VVS or SSB smartphone app, it will cost 2.37€. The app requires internet to make the ticket purchase and a credit card. Once you have purchased the ticket, you no longer need internet. 
 
-There are student plans and other plans available but since I am not using them I cannot help. The handsome and extroardinary  Mahdin will fill this section.
+The cost to travel to Renningen from Stadtmitte (downtown Stuttgart) is ~5.50€ (~11.00€ for a two-way trip). The cheapest option to commute to Bosch is to travel in zone one to either Rotebühlplatz or Swartzstraße, and then take the City-Link.
+
+The student card is like a UPass in Vancouver. It costs 300€ for 6 months and covers 6 zones. This means you can use the UBahn and the SBahn for anywhere in the greater Stuttgart area. However, there is a caveat. The student pass is only valid from <b>October to March</b> or <b>April to October</b>. So, if you arrive to Stuttgart in January and your work term lasts eight months, you’ll need to buy 2 student passes.
+If you are using the City-Link (which you should), then you can buy the monthly passes for particular zones. ***need to add info on the price of the different montly passes.***
+
 
 <h4 id="driving"> 2.2.4 Driving </h4>
 
