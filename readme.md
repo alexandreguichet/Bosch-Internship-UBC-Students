@@ -113,14 +113,14 @@ If you receive healthcare through a family member such as a parent or guardian, 
 
 As a US citizen, you have two options to apply for your visa:
 
-<b>Option Ein:<b> 
+<b>Option Ein:</b> 
 Before moving to Germany, schedule an appointment with the Toronto German Consulate, and fly to Toronto with all the required documentation for your visa application. You will need x,x,x,x,x, and x. The German Consulate will process your information and hold onto your passport until you are issued your visa. This typically takes a few days, unless there are issues with your application. This option is the best for ensuring you can begin your work term at Bosch on time.
 
 NOTE: Scheduling an appointment early with the Toronto German Consulate is key. Appointments book quickly and you may end up having to leave UBC during exams and end of term to take care of your visa. This can be extra stressful and not fun. So save yourself the stress and book it early.
 
 NOTE: Ok. I'm a US citizen though. Why do I need to go all the way to Toronto to apply for a visa? The simplest answer is that this is the way the German government decided to set up their consulates. You must apply for visas and permits in your country of residence (most likely Canada) and not your country of citizenship. Not all consulates process visa and permit applications (Vancouver's consulate does not), so Toronto is where you gotta go. This is your first taste of German bureaucracy - hold on tight, it's gonna be a wild ride.
 
-<b>Option Zwei:<b> 
+<b>Option Zwei:</b> 
 Arrive in Germany at least a month before you are scheduled to begin your work term at Bosch. As a US citizen, you can reside in Germany for up to 90 days without a visa. Upon arriving, immediately contact the Ausländerbehörde (aka the Foreigners Authority) to set up an appointment for your residence application. There is a specific phone number you can call based on your last name or you can submit an email requesting an appointment. To find this number and more information about setting up an appointment, visit this website. It is incredibly important when you request an appointment that you stress the time sensitivity of your situation. Include that you are a US citizen, a student trying to start an internship, and when you are scheduled to start employment. Typically, appointments can take months to schedule. But by pleading your case in your first communications, they will usually work to schedule your appointment within a month.
 
 Once you have an appointment scheduled, you will receive a list of documents to submit. These may include: 
