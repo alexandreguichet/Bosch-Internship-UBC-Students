@@ -382,13 +382,13 @@ Unless you’re planning to stay in Germany for two or more years, you’ll need
 
 <h4 id="best_companies"> 2.4.2 Best companies </h4>
 
-<h5> O2 <h5>
+<h5> O2 </h5>
  
 At the time of writing this, O2 offers pre-paid cards with limited calls and texts, and various amounts of data (3GB is about 15€ a month). These plans are nice because you’ll have phone service and data in Germany and any other EU country if you’re planning to travel. Once you have a German bank account, you can easily pay for your next month of service by texting 56656 from your phone with the O2 phone number. This number will send you information to transfer money. You can then ensure the money was transferred by checking your online O2 account. On O2's <a href="www.o2online.de">website</a>, go to Mein O2 -> login to your account -> Guthaben und Aufladen -> Guthabendetails -> Aufladungen und Abbuchungen. This page should provide you with a history of the transactions on your account. Transfers may take several days (yay for the German banking system), so check with your bank to ensure the transfer was processed if you don’t see the payment on your O2 account.
 
 NOTE: O2 offers a smartphone app. It boasts a lot of features and convenience - like paying for your service, checking the remaining amount of data you have, etc. Unfortunately, you can only download it to your Apple device if you’re Apple account location is set to Germany. This is very hard to do it you have a foreign credit card linked to your Apple account.
 
-<h5> Vodafone <h5>
+<h5> Vodafone </h5>
 
 This is also a good option. You get 2.4GB for 15€.
 
@@ -425,7 +425,7 @@ Flex time is the time management system employed by Bosch. In order to avoid pay
 
 Depending on the length of your internship, you’ll receive some vacation days which can be found in your contract.
 
-<h3 id="dress_code"> 3.4 Dressing like a Bosch <h/h3>
+<h3 id="dress_code"> 3.4 Dressing like a Bosch </h3>
  
 Expect business casual, with an emphasis on casual. While some colleagues will dress up daily (think button-down shirts with dress pants and leather shoes), it is ok to wear jeans and a t-shirt. If you’re working in a clean room, you must wear pants or shorts to work, with closed toed shoes.
 
