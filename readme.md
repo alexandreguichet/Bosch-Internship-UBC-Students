@@ -1,8 +1,10 @@
 <!-- toc -->
 # A SMALL GUIDE TO SETTLE DOWN IN STUTTGART AS UBC STUDENT
 
-Hallo! Welcome to this .git page. In this repository, several UBC students will talk and explain as detailed as possible everything needed 
-to peacefully come to Stuttgart! 
+Hallo! Welcome to this .git page. In this repository, UBC students will explain everything needed to settle into Stuttgart and Bosch!
+Please note this page is simply advice based on our experiences. Not all information may be accurate despite our efforts to make it so. 
+
+If you are currently in Stuttgart and would like to update this page, please xyz.
 
 ## Table of Contents  
 <ul>
@@ -89,7 +91,7 @@ some filler text, but wow you should apply to BOSCH 'cause they absolutely DO NO
  
 <h3 id="insurance"> 1.1 Insurance </h3>
   
-You need health insurance to live and work in Germany. This is a crucial component of applying for your residence permit (if you’re a non-EU citizen).
+You need health insurance to live and work in Germany. If you're a non-EU citizen, this is a crucial component of applying for your residence permit, which allows you to work in Germany.
 
 <h4 id="ams"> 1.1.1 Qualifying for AMS Student Care </h4>
 
