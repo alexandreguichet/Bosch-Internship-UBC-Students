@@ -377,12 +377,27 @@ If you feel the need to open an account with Commerzbank here are some tips so h
 
 <h4 id="pre_paid"> 2.4.1 Pre-paid </h4>
 
+Unless you’re planning to stay in Germany for two or more years, you’ll need a pre-paid phone card. With your passport, you can purchase a pre-paid SIM card. Below, we recommend a few companies we’ve had experience with.
+
 <h4 id="best_companies"> 2.4.2 Best companies </h4>
+
+<h5> O2 <h5>
+ 
+At the time of writing this, O2 offers pre-paid cards with limited calls and texts, and various amounts of data (3GB is about 15€ a month). These plans are nice because you’ll have phone service and data in Germany and any other EU country if you’re planning to travel. Once you have a German bank account, you can easily pay for your next month of service by texting 56656 from your phone with the O2 phone number. This number will send you information to transfer money. You can then ensure the money was transferred by checking your online O2 account. On O2's <a href="www.o2online.de">website</a>, go to Mein O2 -> login to your account -> Guthaben und Aufladen -> Guthabendetails -> Aufladungen und Abbuchungen. This page should provide you with a history of the transactions on your account. Transfers may take several days (yay for the German banking system), so check with your bank to ensure the transfer was processed if you don’t see the payment on your O2 account.
+
+NOTE: O2 offers a smartphone app. It boasts a lot of features and convenience - like paying for your service, checking the remaining amount of data you have, etc. Unfortunately, you can only download it to your Apple device if you’re Apple account location is set to Germany. This is very hard to do it you have a foreign credit card linked to your Apple account.
+
+<h5> Vodafone <h5>
+
+This is also a good option. You get 2.4GB for 15€.
+
   
 <h2 id="work_environment"> 3. Bosch Work Environment </h2>
 
 <h3 id="getting_paid"> 3.1 Getting Paid at Bosch </h3>
-<p> The first day of work your supervisor will send you an “intern welcome” email. In this email, there will be a link to a form that you NEED to submit to HR as soon as possible in order to get paid (PLEASE FILL THE GERMAN FORM AS THE ENGLISH FORM DOESN’T COUNT FOR HR). This form will ask you for German SIN that you will get at the civil office after registering your housing. Why is this “SIN” important? Part of it refers to your tax class. In germany there are different tax classes, and without a tax number provided by the civil office you’ll be charged at the highest rate. And yeah… losing 120€ at the end of your first month isn’t the most pleasant experience. So please, make sure you request the “sin” right after registering your housing. </p>
+<p> The first day of work your supervisor will send you an “intern welcome” email. In this email, there will be a link to a form that you NEED to submit to HR as soon as possible in order to get paid. PLEASE FILL THE GERMAN FORM. THE ENGLISH FORM WILL NOT BE ACCEPTED BY HR AND YOU WON’T BE PAID. This form will ask you for your Identifikationsnummer. See section X for how to get your hands on this very important 11-digit number.  Why is this Identifikationsnummer important? Part of it refers to your tax class. In Germany, there are different tax classes, and without a tax number provided by the Rathaus you’ll be charged at the highest rate. And yeah… losing 120€ at the end of your first month isn’t the most pleasant experience. So please, make sure you are prepared with your Identifikationsnummer. </p>
+
+IMPORTANT: They will only pay you after your first full month. If you begin work at Bosch September 15th, you will get paid at the end of October for a month and a half of work.  Avoid making this mistake and begging them for money (#notfun).
 
 <h3 id="food"> 3.2 Food - Intern Discount </h3>
 
