@@ -175,11 +175,11 @@ Link to some agencies:
 BONUS: <a href="https://www.toytowngermany.com/forum/topic/372037-tenant-refuses-to-pay-rentquick-resolution/"> Europe is crazy </a>
 
 <h6> "Do it Yourself" </h6>
-
+<br/>
 Link to websites: 
-<a href="https://www.wg-gesucht.de/">[WG-GESUCHT] </a>
-<a href="https://www.immobilienscout24.de/"> [Immobilienscout24 - closest equivalent to craiglist] </a>
-
+<li><a href="https://www.wg-gesucht.de/">[WG-GESUCHT] </a></li>
+<li><a href="https://www.immobilienscout24.de/"> [Immobilienscout24 - closest equivalent to craiglist] </a></li>
+<br/>
 <h5 id="house_registration"> Housing registration </h5>
 
 <h3 id="commuting"> 2.2 Commuting </h3>
