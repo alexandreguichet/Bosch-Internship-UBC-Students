@@ -503,7 +503,7 @@ Wanna explore Milan? Head to Paris? Go for it! Here’s a few of our tips that w
  <li> Planes, trains, and automobiles, oh my! There’s quite a few options to get around.
   <ul>
    <li>Planes - best for quick long distance travel throughout Europe. Schedule early if you can for the best deals</li>
-   <li>Trains - good if you wanna see the land you’re passing through. Usually pretty comfty with plenty of leg room and space to sleep (and often wifi onboard).</li>
+   <li>Trains - good if you wanna see the land you’re passing through. Usually pretty comfty with plenty of legroom and space to sleep (and often wifi onboard).</li>
    <li>Buses - FlixBus is cheap. Can usually take about the same time as trains, but less comfy and sometimes cheaper. Be prepared for stops along the way, some delays, and random customs searches.</li>
    <li>Car-share services like BlaBlaCar </li>
   </ul>
