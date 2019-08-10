@@ -203,29 +203,29 @@ Cons:
 
  Bosch sent you a list of <i> available accomodations </i> in your contract... in German. But hey... it still helps and is a great place to start.
 
-<h5> Own Appartment </h5>
+<h5> Own Apartment </h5>
 
 Renting your own studio is awesome. You don’t have to share your kitchen and shower with roommates. You don’t have quiet hours. YOU CAN BE FREEEEEEEEE! However, it can quickly become expensive and… our small salary won’t make it to the end of the month. 
-There are two options when you look for your own studio/room. Option one: look on sites such as the German <i><a href="https://www.wg-gesucht.de/">craiglist</a></i> and <a/ href="https://www.uniplaces.com/">Uniplaces</a>. Option two: hire an agency to do the scouting for you.
+There are two options when you look for your own studio/room. Option one: look on sites such as the German <i><a href="https://www.wg-gesucht.de/">craiglist</a></i> and <a href="https://www.uniplaces.com/">Uniplaces</a>. Option two: hire an agency to do the scouting for you.
 
-In any case, I highly encourage everyone to visit the appartments/houses IN PERSON before paying deposit... for many reasons we’ll explain in a section below [link to section].
+In any case, visit the apartments/houses IN-PERSON before signing a rental contract and/or a paying deposit... for many reasons we’ll explain in a section below [link to section].
 
 <h6> “Agencies” </h6>
 
-One might think that contacting an agency would be a good move… and is right. Agencies are a good resource to help you think a reliable place. Agencies have good quality standards and are only renting places they have a contract with the owner. 
+One might think that contacting an agency would be a good move… and one is right. Agencies are a good resource to help you find a reliable place. They have quality standards and are only renting places where they have a contract with the owner.  
 
 <b> Pros: </b>
-<li> <b> Speaks English </b> - the communication can be easily done in english. The person will ask you what you are looking for, what are your price ranges, and expectation then will send you offers from time to time that fits your needs. </li>
-<li> <b> Quality Assurance </b>- the apartment rented through an agency will be clean and good. They cannot do false advertising so you’ll pay for what you see online. </li>
-<li> <b> Reliable </b> - The dates of moving in, the rent price, etc… all you will see in the online ad will be “true”. Therefore, you have barely any chances of visiting an apartment that will only be available two months after your visit. </li>
-<li> <b> Paying </b> - You will pay directly to the agency so you have little chances of being scammed (I’ll explain more in the “Do it yourself” section [link to paragraph]). </li>
+<li> <b> Speaks English </b> - The communication can be easily done in English. The person will ask you what you are looking for, your price ranges, and expectations. They will then send you offers that fits your needs. </li>
+<li> <b> Quality Assurance </b>- The apartment offered through an agency will be clean and quality. They cannot falsely advertise. If an apartment looks decent online, it’s probably worth visiting. </li>
+<li> <b> Reliable </b> - The rental dates, the rental price, etc… What you see in the online ad will be accurate. Therefore, you have little chance of visiting an apartment that will only be available two months after your visit. </li>
+<li> <b> Payment </b> - You will pay rent directly to the agency. The agency then pays the landlord. This limits your chances of being scammed (More details in the “Do it yourself” section [link to paragraph]).  </li>
 <br/>
 <b> Cons: </b> 
 <br/><br/>
-<li> <b> Expensive </b> - the general rule to go by is that you’ll lose 2-3 months of rent a year. In other words, if you decide to rent an apartment with an agency, they’ll increase the prices so they can profit of 2-3 extra months worth of rent. </li>
-<li> <b> Deposit </b> - they will have you pay the first month of rent plus the deposit before you move in. In other words, make sure you have enough money to pay the deposit + first month before you get your first Bosch paycheck. </li>
-<li> <b> Paperwork </b> - They want proof that you will be able to pay for the full extent of your internship (+proof of visa/identity). Why is that? Because in Europe, we cannot kick people living in your place easily, even if they stop paying rent (the process of kicking a tenant out takes 1-2 months). So the agency will be afraid that you will stop paying rent halfway through then cannot kick you out. So it might become a hassle to deal with paperwork but it is to protect both the tenant and the landlord!</li>
-<li> <b> Online </b> - Most of the agencies operates online and through emails. They do not encourage meeting in person to discuss your needs and expectations.</li>
+<li> <b> Expensive </b> - The general rule is that you’ll lose 2-3 months of rent a year. In other words, if you decide to rent an apartment with an agency, they’ll increase the prices so they can profit of 2-3 extra months worth of rent.  </li>
+<li> <b> Deposit </b> - Once you sign a rental agreement, you’ll need to pay a deposit and the first month of rent before you move in. Be prepared to have enough money to pay the deposit and first month before you get your first Bosch paycheck.  </li>
+<li> <b> Paperwork </b> - The agency will want proof you’ll be able to pay rent for the full extent of your internship (+ proof of visa/identity). Why is that? In Europe, removing tenants is incredibly difficult, even if the tenants are refusing to pay their rent. The process of evicting a tenant takes 1-2 months. A rental agency wants to prevent a situation where they enter a rental contract with someone who stops paying rent after a few months. While the paperwork is a hassle, it protects both the tenant and the landlord.</li>
+<li> <b> Online </b> - Most rental agencies operate online and through emails. They do not encourage meeting in-person to discuss your needs and expectations.</li>
 <br/>
 Link to some agencies: 
 <li> <a href="https://www.hc24.de/en/furnished-living-space-in-stuttgart.htm">[HC24] </a></li>
