@@ -206,7 +206,7 @@ Cons:
 <h5> Own Appartment </h5>
 
 Renting your own studio is awesome. You don’t have to share your kitchen and shower with roommates. You don’t have quiet hours. YOU CAN BE FREEEEEEEEE! However, it can quickly become expensive and… our small salary won’t make it to the end of the month. 
-There are two options when you look for your own studio/room. Option one: look on sites such as the German <i><a href="https://www.wg-gesucht.de/">craiglist</a><i> and <a/ href="https://www.uniplaces.com/">Uniplaces</a>. Option two: hire an agency to do the scouting for you.
+There are two options when you look for your own studio/room. Option one: look on sites such as the German <i><a href="https://www.wg-gesucht.de/">craiglist</a></i> and <a/ href="https://www.uniplaces.com/">Uniplaces</a>. Option two: hire an agency to do the scouting for you.
 
 In any case, I highly encourage everyone to visit the appartments/houses IN PERSON before paying deposit... for many reasons we’ll explain in a section below [link to section].
 
