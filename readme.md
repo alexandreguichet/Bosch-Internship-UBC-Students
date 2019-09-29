@@ -501,7 +501,7 @@ There is no parties in Germany. OH WAIT, you ask us about THE OKTOBERFEST? or TH
 
 <h3 id="hikes"> 5.2 Hikes </h3>
 
-Stuttgart is on the edge of the Black forest. There you could do a different hike every day for a year and not be close to done with them (according to this <a href="https://www.outdooractive.com/en/hiking-trails/stuttgart-and-surroundings/hiking-trails-in-stuttgart-and-surroundings/1458162/"> website </a> <i><b>"In total there are about 2,066 hiking trails for you to discover within the region of Stuttgart and surroundings"</b></i>). Forest is everywhere and renting a car for a day/weekend is recommended. 
+Stuttgart is on the edge of the Black forest. There you could do a different hike every day for a year and not be close to done with them (according to this <a href="https://www.outdooractive.com/en/hiking-trails/stuttgart-and-surroundings/hiking-trails-in-stuttgart-and-surroundings/1458162/"> website </a>: <b>"In total there are about 2,066 hiking trails for you to discover within the region of Stuttgart and surroundings"</b>). Forest is everywhere and renting a car for a day/weekend is recommended. 
 
 Camping is slightly more difficult as the black forest is protected with strict laws. Wild camping is only allowed in few areas are allowed. (Damiano will talk about that soon). 
 
