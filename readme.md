@@ -379,11 +379,15 @@ If you feel the need to open an account with Commerzbank here are some tips so h
 
 <h3 id="phoneplan"> 2.4 Phone Plan </h3>
 
-<h4 id="pre_paid"> 2.4.1 Pre-paid </h4>
+Phone service is not available on Renningen Campus for most compagnies!! Most people have to go outside campus to find service. Vodaphone, however, works and even provides 3G. 
+
+<h4 id="pre_paid"> 2.4.1 Pre-paid OR Phone plan</h4>
 
 Unless you’re planning to stay in Germany for two or more years, you’ll need a pre-paid phone card. With your passport, you can purchase a pre-paid SIM card. Below, we recommend a few companies we’ve had experience with.
 
 <h4 id="best_companies"> 2.4.2 Best companies </h4>
+
+Please be carefull with using your phone outside Germany (Italy, France, Poland, etc...) as it might be crediting you for any data/texts send. I spend 2 weeks outside Germany and got credited 50€ without knowing for using my data. If you ever decide to go for an 'international EU plan', please remember that some countries (Monaco, Switzerland, etc...) are not EU members and fees can apply! 
 
 <h5> O2 </h5>
  
@@ -393,7 +397,7 @@ NOTE: O2 offers a smartphone app. It boasts a lot of features and convenience - 
 
 <h5> Vodafone </h5>
 
-This is also a good option. You get 2.4GB for 15€.
+This is also a good option since it works on the Renningen campus. You can have 2GB Data with unlimited texting for 10€ a month. When your 2GB of 'High Speed Data', you'll still be able to access 'low speed data (E)'. 
 
   
 <h2 id="work_environment"> 3. Bosch Work Environment </h2>
@@ -493,7 +497,13 @@ There are many resources out there to aid you in learning German if you’re int
 
 <h3 id="parties"> 5.1 Parties </h3>
 
+There is no parties in Germany. OH WAIT, you ask us about THE OKTOBERFEST? or THE STUTTGART BEER FESTIVAL (twice a year <a href="https://www.wasen.de"> here is the timer </a> )? OR THE EVERY WEDNESDAY KARAOKE NIGHT <a href="https://www.biddyearlys.com/biddys-karaoke-party">(here)</a>? OR EVEN THE THURSDAY'S BEERPONG <a href="https://white-noise.eu/programm/beer-pong-stuttgart-3-1/"> (here...) </a>? And check out the night clubs out there, they are... interesting! 
+
 <h3 id="hikes"> 5.2 Hikes </h3>
+
+Stuttgart is on the edge of the Black forest. There you could do a different hike every day for a year and not be close to done with them. Forest is everywhere and renting a car for a day/weekend is recommended. 
+
+Camping is slightly more difficult as the black forest is protected with strict laws. Wild camping is only allowed in few areas are allowed. (Damiano will talk about that soon). 
 
 <h3 id="travels"> 5.3 Travel, etc... </h3>
 
@@ -519,15 +529,8 @@ This group is a helpful resource and community. Comprised of mostly english spea
 
 <h2 id="bonus"> 6. Bonus: Like a bOsCh </h2>
 
-The BEST video you will ever see... and need. 
-<div class="plyr__video-embed" id="player">
- <iframe 
-         width="1352" height="595" 
-         src="https://www.youtube.com/embed/v2kV6pgJxuo" 
-         frameborder="0" 
-         allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" 
-         allowfullscreen
- ></iframe>
+The BEST video you will ever see and... <a href="https://www.youtube.com/embed/v2kV6pgJxuo"> need </a>. 
+
  <br/> 
  <br/>
  Collaboration: Sophia Gut, Alexandre Guichet, Mahdin Ar Rahman, Anand Samra, Rachit Kumar
