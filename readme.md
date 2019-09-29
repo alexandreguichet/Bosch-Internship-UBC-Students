@@ -146,7 +146,7 @@ your passport,
 
 <h3 id="looking_for_house"> 1.3 Looking for housing before arriving </h3>
 
-From our experience, it is very hard to look for a housing if you're not present in Germany (and don't speak German). This is because you cannot visit the appartement before paying for the deposit. So, there will be a trade off: go thought an agency and pay more for what you get, or do it on your own and risk to be scammed. Both options will be discussed in <a href="#find_place">[2.1 Find a place]</a>. Our recommendation would be to fly to Stuttgart and stay there a week to look/visit rooms and appartments.  
+From our experience, it is very hard to look for a housing if you're not present in Germany (and don't speak German). This is because you cannot visit the apartement before paying for the deposit. So, there will be a trade off: go throught an agency and pay more for what you get, or do it on your own and risk to be scammed. Both options will be discussed in <a href="#find_place">[2.1 Find a place]</a>. Our recommendation would be to fly to Stuttgart and stay there a week to look/visit rooms and apartments.  
 
 <h3 id="plane_tickets"> 1.4 Plane Tickets/Preparing for departure </h3>
 
