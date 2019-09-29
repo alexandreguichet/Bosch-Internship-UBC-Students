@@ -497,11 +497,11 @@ There are many resources out there to aid you in learning German if you’re int
 
 <h3 id="parties"> 5.1 Parties </h3>
 
-There is no parties in Germany. OH WAIT, you ask us about THE OKTOBERFEST? or THE STUTTGART BEER FESTIVAL (twice a year <a href="https://www.wasen.de"> here is the timer </a> )? OR THE EVERY WEDNESDAY KARAOKE NIGHT <a href="https://www.biddyearlys.com/biddys-karaoke-party">(here)</a>? OR EVEN THE THURSDAY'S BEERPONG <a href="https://white-noise.eu/programm/beer-pong-stuttgart-3-1/"> (here...) </a>? And check out the night clubs out there, they are... interesting! 
+There is no parties in Germany. OH WAIT, you ask us about THE OKTOBERFEST? or THE STUTTGART BEER FESTIVAL (twice a year <a href="https://www.wasen.de"> here is the countdown </a> )? OR THE EVERY WEDNESDAY KARAOKE NIGHT (<a href="https://www.biddyearlys.com/biddys-karaoke-party">here</a>)? OR EVEN THE THURSDAY'S BEERPONG (<a href="https://white-noise.eu/programm/beer-pong-stuttgart-3-1/"> here... </a>)? And check out the night clubs out there, they are... interesting! 
 
 <h3 id="hikes"> 5.2 Hikes </h3>
 
-Stuttgart is on the edge of the Black forest. There you could do a different hike every day for a year and not be close to done with them. Forest is everywhere and renting a car for a day/weekend is recommended. 
+Stuttgart is on the edge of the Black forest. There you could do a different hike every day for a year and not be close to done with them (according to this <a href="https://www.outdooractive.com/en/hiking-trails/stuttgart-and-surroundings/hiking-trails-in-stuttgart-and-surroundings/1458162/"> website </a>, Stuttgart: 412 hiking trails, Boeblingen: 576 hiking trails, Ludwigsburg: 595 hiking trails, etc...). Forest is everywhere and renting a car for a day/weekend is recommended. 
 
 Camping is slightly more difficult as the black forest is protected with strict laws. Wild camping is only allowed in few areas are allowed. (Damiano will talk about that soon). 
 
