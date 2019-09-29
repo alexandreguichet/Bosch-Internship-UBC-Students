@@ -150,8 +150,9 @@ From our experience, it is very hard to look for a housing if you're not present
 
 <h3 id="plane_tickets"> 1.4 Plane Tickets/Preparing for departure </h3>
 
-Vancouver-Stuttgart (<b>ONE WAY</b>) usually cost between €750-€1500 ($1050-$2200 CAD) depending on when how late you buy the plane tickets. We recommend you to buy them as soon as you know your final dates. 
+Vancouver-Stuttgart (<b>ONE WAY</b>) usually cost between €650-€1500 ($950-$2200 CAD) depending on when how late you buy the plane tickets. We recommend you to buy them as soon as you know your final dates. 
 
+flight cost according to Google Flights:
 ![](assets/images/flight_cost.png)
 
 <h2 id="settling_stuttgart"> 2. Settling Down in Stuttgart </h2>
@@ -323,7 +324,7 @@ Some diesel cars are not allowed to drive in certain zones. The fine for doing s
 
 Currently the only diesel cars allowed to drive in Stuttgart and Leonberg are those with a EURO-class of 5 or more, however the change from "class 4" to "class 5" is relatively new so there is a transition period (I am currently driving an EURO-class 4 and do not have problems with it). For the sake of the environment we'll highly recommend anyone who plans on buying/renting/using a car in this area to follow the environmental norms.
 
-![](assets/images/umwelt-plakette.jpg)
+![](assets/images/Umwelt-zones.png)
 
 If you are driving a diesel car, you will need a Umwelt-Plakette. You can buy them at any car retail store (7€) or any civil office (aka Rathaus). You will need to bring your car papers with your driving license to obtain the Umwelt-Plakette.
 
