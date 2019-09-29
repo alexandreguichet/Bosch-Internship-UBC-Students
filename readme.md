@@ -505,6 +505,10 @@ Stuttgart is on the edge of the Black forest. There you could do a different hik
 
 Camping is slightly more difficult as the black forest is protected with strict laws. Wild camping is only allowed in few areas are allowed. (Damiano will talk about that soon). 
 
+One hike that is highly recommended is in Bad Urach, a little town about an hour and a half away from Stuttgart by train. This is known for being a lovely little waterfall, with multiple path extending to different castles and in different directions. It can be quite cold here in Stuttgart depending on the time of year, so be well dressed for any conditions you find yourself in
+
+Another place to go hiking is in the Black Forest. This is a wonderful forest that is quite near to the French border, and can offer 2 day long trails if you are into that sort of thing. Remember to bring proper outdoor gear such as tents, and food, and most important, as you are in a foreign country, LET SOMEONE KNOW WHAT YOU ARE DOING. If possible look into a satalite phone as it is quite possible that regular phone service wont work. 
+
 <h3 id="travels"> 5.3 Travel, etc... </h3>
 
 Wanna explore Milan? Head to Paris? Go for it! Here’s a few of our tips that we’ve learned through our experiences. 
