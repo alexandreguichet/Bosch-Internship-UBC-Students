@@ -527,6 +527,6 @@ The BEST video you will ever see... and need.
  ></iframe>
  <br/> 
  <br/>
- Collaboration: Sophia Gut, Alexandre Guichet
+ Collaboration: Sophia Gut, Alexandre Guichet, Mahdin Ar Rahman, Anand Samra, Rachit Kumar
 </div>
  
