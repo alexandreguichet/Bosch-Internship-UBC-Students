@@ -219,7 +219,7 @@ Pros:
 <li> <b> Speaks English </b> - The communication can be easily done in English. The person will ask you what you are looking for, your price ranges, and expectations. They will then send you offers that fits your needs. </li>
 <li> <b> Quality Assurance </b>- The apartment offered through an agency will be clean and quality. They cannot falsely advertise. If an apartment looks decent online, it’s probably worth visiting. </li>
 <li> <b> Reliable </b> - The rental dates, the rental price, etc… What you see in the online ad will be accurate. Therefore, you have little chance of visiting an apartment that will only be available two months after your visit. </li>
-<li> <b> Payment </b> - You will pay rent directly to the agency. The agency then pays the landlord. This limits your chances of being scammed (More details in the “Do it yourself” section [link to paragraph]).  </li>
+<li> <b> Payment </b> - You will pay rent directly to the agency. The agency then pays the landlord. This limits your chances of being scammed.  </li>
 <br/>
  </ul>
 Cons:
@@ -239,12 +239,6 @@ Link to some agencies:
 <br/>
 BONUS: <a href="https://www.toytowngermany.com/forum/topic/372037-tenant-refuses-to-pay-rentquick-resolution/"> Europe is crazy </a>
 
-<h6> "Do it Yourself" </h6>
-Link to websites: 
-<ul>
-<li><a href="https://www.wg-gesucht.de/">[WG-GESUCHT] </a></li>
-<li><a href="https://www.immobilienscout24.de/"> [Immobilienscout24 - closest equivalent to craiglist] </a></li>
- </ul>
 <h5 id="house_registration"> Housing registration </h5>
 
 Once you’ve found a place to live, signed a rental agreement, and paid your deposit, it’s time to register your housing. Regardless of if you’re a German citizen or an international citizen, everyone must register their place of residence within Germany. To register, bring your passport and signed rental contract to your closest Rathaus (civil office - kind of like a city hall). By completing your housing registration, you’ll also receive an Identifikationsnummer (the German version of a Canadain SIN or an American SSN) in the snailmail. See section X for why this is important. If you don’t receive your Identifikationsnummer in a timely manner, you can pay the Rathaus another visit and directly request it. They should be able to print it out for you on the spot if your housing registration was completed during an earlier visit. 
