@@ -197,8 +197,8 @@ Cons:
 <ul>
  <li>You will have to share the kitchen and the bathroom with 5-8 other roommates</li>
  <li>Rooms are small</li>
-<li>You can only rent for 6 months (Some of us have had luck renting for longer by going to the office and talking to them)</li>
-
+ <li>You can only rent for 6 months (Some of us have had luck renting for longer by going to the office and talking to them)</li>
+</ul>
 <h5> Bosch Housing </h5>
 
 Bosch sent you a list of <i> available accomodations </i> in your contract... in German. But hey... it still helps and is a great place to start.
