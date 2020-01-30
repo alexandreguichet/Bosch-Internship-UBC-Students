@@ -214,30 +214,38 @@ In any case, visit the apartments/houses IN-PERSON before signing a rental contr
 
 One might think that contacting an agency would be a good move… and one is right. Agencies are a good resource to help you find a reliable place. They have quality standards and are only renting places where they have a contract with the owner.  
 
-<b> Pros: </b>
+Pros:
+<ul>
 <li> <b> Speaks English </b> - The communication can be easily done in English. The person will ask you what you are looking for, your price ranges, and expectations. They will then send you offers that fits your needs. </li>
 <li> <b> Quality Assurance </b>- The apartment offered through an agency will be clean and quality. They cannot falsely advertise. If an apartment looks decent online, it’s probably worth visiting. </li>
 <li> <b> Reliable </b> - The rental dates, the rental price, etc… What you see in the online ad will be accurate. Therefore, you have little chance of visiting an apartment that will only be available two months after your visit. </li>
 <li> <b> Payment </b> - You will pay rent directly to the agency. The agency then pays the landlord. This limits your chances of being scammed (More details in the “Do it yourself” section [link to paragraph]).  </li>
 <br/>
-<b> Cons: </b> 
+ </ul>
+Cons:
 <br/><br/>
+<ul>
 <li> <b> Expensive </b> - The general rule is that you’ll lose 2-3 months of rent a year. In other words, if you decide to rent an apartment with an agency, they’ll increase the prices so they can profit of 2-3 extra months worth of rent.  </li>
 <li> <b> Deposit </b> - Once you sign a rental agreement, you’ll need to pay a deposit and the first month of rent before you move in. Be prepared to have enough money to pay the deposit and first month before you get your first Bosch paycheck.  </li>
 <li> <b> Paperwork </b> - The agency will want proof you’ll be able to pay rent for the full extent of your internship (+ proof of visa/identity). Why is that? In Europe, removing tenants is incredibly difficult, even if the tenants are refusing to pay their rent. The process of evicting a tenant takes 1-2 months. A rental agency wants to prevent a situation where they enter a rental contract with someone who stops paying rent after a few months. While the paperwork is a hassle, it protects both the tenant and the landlord.</li>
 <li> <b> Online </b> - Most rental agencies operate online and through emails. They do not encourage meeting in-person to discuss your needs and expectations.</li>
+ </ul>
 <br/>
 Link to some agencies: 
+<ul>
 <li> <a href="https://www.hc24.de/en/furnished-living-space-in-stuttgart.htm">[HC24] </a></li>
 <li> <a href="https://www.homecompany.de/de/index"> [Home Company - Online only] </a></li>
+ </ul>
 <br/>
 BONUS: <a href="https://www.toytowngermany.com/forum/topic/372037-tenant-refuses-to-pay-rentquick-resolution/"> Europe is crazy </a>
 
 <h6> "Do it Yourself" </h6>
 <br/>
 Link to websites: 
+<ul>
 <li><a href="https://www.wg-gesucht.de/">[WG-GESUCHT] </a></li>
 <li><a href="https://www.immobilienscout24.de/"> [Immobilienscout24 - closest equivalent to craiglist] </a></li>
+ </ul>
 <br/>
 <h5 id="house_registration"> Housing registration </h5>
 
@@ -259,12 +267,17 @@ If you don’t want to spend 300€ on a student travel pass (similar to Vancouv
  
 
 PROS: 
+<ul>
 <li> Free </li>
 <li> Fast (40 min from Downtown to Renningen) </li>
 <li> Wifi + AC </li>
-<li> Several buses per the day </li><br/>
+<li> Several buses per the day </li>
+ </ul><br/>
 CONS: <br/><br/>
- <&#39none> <br/><br/>
+<ul>
+ <li> Can sometimes leave earlier than the time posted </li>
+ </ul>
+<br/><br/>
  
 NOTE: You won’t be able to take the City-Link to get to work on your first day. You must have your Bosch ID card to board the bus, so plan an alternative transportation method. 
  
@@ -278,16 +291,18 @@ NOTE 3: We only know about the Bosch Renningen City-Link, but we bet other Bosch
 SPTLr is another resource from Bosch to help employees to commute to work. SPTLr is a car share app that allows anyone using it to either register as a river or a guest. The app connects employees living in remote areas to commute together in order to reduce the costs (and their carbon footprint). The app is relatively new and still needs improvement. However this can still be a resource worth looking into. 
 
 PROS:
+<ul>
 <li> Car share: You can register as a driver to reduce your expenses or guest to join a driver. </li>
 <li> Locations: Public transportation can be annoying from time to time. This car share system can be more tailored to your location for convenience. </li>
 <li> Social: You may end up practicing your German during your commute, or connecting with someone you may have never otherwise met. </li>
-<li> Money: As a guest you pay the driver and as a driver, you receive payment. This is all carried out in the app, making it easy to calculate costs based on distances. </li><br/>
+<li> Money: As a guest you pay the driver and as a driver, you receive payment. This is all carried out in the app, making it easy to calculate costs based on distances. </li></ul><br/>
 
 CONS: 
+<ul>
 <li> Users: Not many  </li>
 <li> App: The app is new and its design isn't the most intuitive </li>
 <li> Registration: This requires a Bosch email address. You can register for it only after starting work
- </li><br/>
+ </li></ul><br/>
 
 SPLTr will probably become one of the best commuting car sharing apps for the Bosch community. However, we would not recommend on relying on it when house hunting.
 
@@ -347,30 +362,37 @@ Info:
 <p><b>NOTE:</b> If you’re a US citizen, you’ll also need your SSN and will be asked to fill out a tax form for the US government. Ask to fill out this form during the appointment. You won’t need to go through the hassle of printing the form, mailing it in or stopping by the specific bank branch again.</p>
 
 <h5> Pros with Deutsche Bank</h5>
+<ul>
 <li>Their customer service is top notch.</li>
 <li>You can withdraw cash from ATMs around Europe without fees at select banks. You can also withdraw cash from your ScotiaBank account without fees from Deutsche Bank ATMs (regardless of if you have an account with Deutsche Bank).</li>
 <li>Online banking. Their phone app is efficient and they’ll help you set everything up in-person if you request a meeting.</li>
- 
+ </ul>
 <h4 id="other_banks"> 2.3.2 Other Banks </h4> 
 <h5> N26 </h5>
 <p> N26 offers an easy to set-up bank account, designed specifically for international people settling down for the first time in Germany. To set up the account, you need to fill in the online registration form, then complete their online ID verification which will require your passport, and then pair your smartphone to your account. N26 has no physical branch, so everything is done online. </p>
 
 <h5> Pros with N26</h5>
+<ul>
 <li>Their set up is incredibly easy.</li>
 <li>You can withdraw cash from all ATMs which accept mastercard.</li>
 <li>Online banking. Their phone app is efficient and can be used for all banking needs.</li>
 <li>You can withdraw cash from supermarkets and other vendors with a QR code</li>
+</ul>
 
 <h5> Cons with N26</h5>
+<ul>
 <li>Depending on the account, you only get 5 ATM withdrawals in Germany per month for free, any German ATM withdrawals after this will be charged.</li>
 <li>You can only deposit cash through a supermarket or vendor.</li>
+</ul>
 
 <h5> Commerzbank </h5>
 <p>From our experiences, Commerzbank is very frustrating to open an account with. While you can try and open an account online without an appointment, you will end up having to prove your identity (bring your passport) at a PostBank or in-person unless you’re a German citizen. If they need to send you your ATM card more than once, they will charge you 5€ each time they send it. They will also charge you when they send you correspondence through the mail. 
 
 If you feel the need to open an account with Commerzbank here are some tips so hopefully you don’t get ripped off:
+<ul>
 <li> Be prepared to provide an address where you can receive mail at and you are registered with the German authorities. This is how you receive your ATM card. In Germany, mail is delivered based on the name on the postbox. If you’re name is not on the postbox, provide a care-of (CO) name that is on the postbox along with the address </li>
 <li> As soon as you have access to your online banking, opt out of receiving mail through the post. This means they will send you correspondence online and won’t charge you for it </li>
+ </ul>
 </p>
 
 <h3 id="phoneplan"> 2.4 Phone Plan </h3>
