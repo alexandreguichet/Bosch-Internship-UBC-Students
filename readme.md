@@ -240,13 +240,11 @@ Link to some agencies:
 BONUS: <a href="https://www.toytowngermany.com/forum/topic/372037-tenant-refuses-to-pay-rentquick-resolution/"> Europe is crazy </a>
 
 <h6> "Do it Yourself" </h6>
-<br/>
 Link to websites: 
 <ul>
 <li><a href="https://www.wg-gesucht.de/">[WG-GESUCHT] </a></li>
 <li><a href="https://www.immobilienscout24.de/"> [Immobilienscout24 - closest equivalent to craiglist] </a></li>
  </ul>
-<br/>
 <h5 id="house_registration"> Housing registration </h5>
 
 Once you’ve found a place to live, signed a rental agreement, and paid your deposit, it’s time to register your housing. Regardless of if you’re a German citizen or an international citizen, everyone must register their place of residence within Germany. To register, bring your passport and signed rental contract to your closest Rathaus (civil office - kind of like a city hall). By completing your housing registration, you’ll also receive an Identifikationsnummer (the German version of a Canadain SIN or an American SSN) in the snailmail. See section X for why this is important. If you don’t receive your Identifikationsnummer in a timely manner, you can pay the Rathaus another visit and directly request it. They should be able to print it out for you on the spot if your housing registration was completed during an earlier visit. 
@@ -266,18 +264,18 @@ City-Link is a free bus line offered by Bosch, picking up from downtown Stuttgar
 If you don’t want to spend 300€ on a student travel pass (similar to Vancouver’s Compass card) and still live in downtown Stuttgart, this is the way to go.
  
 
-PROS: 
+Pros: 
 <ul>
 <li> Free </li>
 <li> Fast (40 min from Downtown to Renningen) </li>
 <li> Wifi + AC </li>
 <li> Several buses per the day </li>
- </ul><br/>
-CONS: <br/><br/>
+ </ul>
+ 
+Cons: 
 <ul>
  <li> Can sometimes leave earlier than the time posted </li>
  </ul>
-<br/><br/>
  
 NOTE: You won’t be able to take the City-Link to get to work on your first day. You must have your Bosch ID card to board the bus, so plan an alternative transportation method. 
  
@@ -290,14 +288,14 @@ NOTE 3: We only know about the Bosch Renningen City-Link, but we bet other Bosch
 
 SPTLr is another resource from Bosch to help employees to commute to work. SPTLr is a car share app that allows anyone using it to either register as a river or a guest. The app connects employees living in remote areas to commute together in order to reduce the costs (and their carbon footprint). The app is relatively new and still needs improvement. However this can still be a resource worth looking into. 
 
-PROS:
+Pros:
 <ul>
 <li> Car share: You can register as a driver to reduce your expenses or guest to join a driver. </li>
 <li> Locations: Public transportation can be annoying from time to time. This car share system can be more tailored to your location for convenience. </li>
 <li> Social: You may end up practicing your German during your commute, or connecting with someone you may have never otherwise met. </li>
 <li> Money: As a guest you pay the driver and as a driver, you receive payment. This is all carried out in the app, making it easy to calculate costs based on distances. </li></ul><br/>
 
-CONS: 
+Cons: 
 <ul>
 <li> Users: Not many  </li>
 <li> App: The app is new and its design isn't the most intuitive </li>
