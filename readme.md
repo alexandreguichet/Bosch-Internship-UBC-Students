@@ -17,8 +17,7 @@ If you are currently in Stuttgart and would like to update this page, please xyz
    </ul>
   <li> <a href="#visa">1.2  Visa </a>
   <ul>
-   <li> <a href="#international_visa"> 1.2.1 International students</a> </li>
-   <li> <a href="#us_citizens"> 1.2.2 US Citizens </a></li>
+   <li> <a href="#us_citizens"> 1.2.1 US Citizens </a></li>
   </ul>
   <li> <a href="#looking_for_house"> 1.3 Looking for housing before arriving </a> </li>
   <li> <a href="#plane_tickets"> 1.4 Plane Tickets/Preparing for departure </a></li>
@@ -103,8 +102,6 @@ You only qualify for MSP if you are living as a residence in BC. If you leave BC
 If you receive healthcare through a family member such as a parent or guardian, you can speak with them to see if you will be covered overseas for the duration of your stay. One example of healthcare that can apply overseas is Pacific Blue Cross. 
 
 <h3 id="visa"> 1.2 Visa </h3>
-
-<h4 id="international_visa"> 1.2.1 International students </h4> 
 
 <h4 id="us_citizens"> 1.2.1 US citizens </h4> 
 
@@ -209,7 +206,7 @@ Bosch sent you a list of <i> available accomodations </i> in your contract... in
 <h5> Own Apartment </h5>
 
 Renting your own studio is awesome. You don’t have to share your kitchen and shower with roommates. You don’t have quiet hours. YOU CAN BE FREEEEEEEEE! However, it can quickly become expensive and… our small salary won’t make it to the end of the month. 
-There are two options when you look for your own studio/room. Option one: look on sites such as the German <i><a href="https://www.wg-gesucht.de/">craiglist</a></i> and <a href="https://www.uniplaces.com/">Uniplaces</a>. Option two: hire an agency to do the scouting for you.
+There are two options when you look for your own studio/room. Option one: look on sites such as the German <i><a href="https://www.wg-gesucht.de/">craiglist</a></i> and <i><a href="https://www.uniplaces.com/">Uniplaces</a></i>. Option two: hire an agency to do the scouting for you.
 
 In any case, visit the apartments/houses IN-PERSON before signing a rental contract and/or a paying deposit... for many reasons we’ll explain in a section below [link to section].
 
@@ -250,7 +247,7 @@ NOTE: Before leaving Germany, don’t forget to deregister!
 
 <h3 id="commuting"> 2.2 Commuting </h3>
 
-CCommuting to work may be the parameter that will impact your life most in Germany. Would you rather spend 30 minutes or an hour and 30 minutes commuting? The condition in which you commute is also important. Would you rather have an hour long bus ride with wifi or an hour and 30 minutes of commuting with 3 train transfers and no wifi nor AC. This section is here to help you understand how you can travel around Stuttgart easily and travel to Bosch with minimal energy and time.
+Commuting to work may be the parameter that will impact your life most in Germany. Would you rather spend 30 minutes or an hour and 30 minutes commuting? The condition in which you commute is also important. Would you rather have an hour long bus ride with wifi or an hour and 30 minutes of commuting with 3 train transfers and no wifi nor AC. This section is here to help you understand how you can travel around Stuttgart easily and travel to Bosch with minimal energy and time.
 
 <h4 id = "city_link"> 2.2.1 City-Link </h4>
 
@@ -311,8 +308,7 @@ It’s important to know that the cost to travel in zone one. If you purchase yo
 The cost to travel to Renningen from Stadtmitte (downtown Stuttgart) is ~5.50€ (~11.00€ for a two-way trip). The cheapest option to commute to Bosch is to travel in zone one to either Rotebühlplatz or Swartzstraße, and then take the City-Link.
 
 The student card is like a UPass in Vancouver. It costs 300€ for 6 months and covers 6 zones. This means you can use the UBahn and the SBahn for anywhere in the greater Stuttgart area. However, there is a caveat. The student pass is only valid from <b>October to March</b> or <b>April to October</b>. So, if you arrive to Stuttgart in January and your work term lasts eight months, you’ll need to buy 2 student passes.
-If you are using the City-Link (which you should), then you can buy the monthly passes for particular zones. ***need to add info on the price of the different montly passes.***
-
+If you are using the City-Link (which you should), then you can buy the monthly passes for particular zones.
 
 <h4 id="driving"> 2.2.4 Driving </h4>
 
