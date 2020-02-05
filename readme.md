@@ -108,9 +108,9 @@ If you receive healthcare through a family member such as a parent or guardian, 
 As a US citizen, you have two options to apply for your visa:
 
 <b>Option One:</b> 
-Before moving to Germany, schedule an appointment with the Toronto German Consulate, and fly to Toronto with all the required documentation for your visa application. You will need x,x,x,x,x, and x (to be edited soon). The German Consulate will process your information and hold onto your passport until you are issued your visa. This typically takes a few days, unless there are issues with your application. This option is the best for ensuring you can begin your work term at Bosch on time.
+Before moving to Germany, schedule an appointment with the Toronto German Consulate, and fly to Toronto with all the required documentation for your visa application. You will need <div class="text-purple"> x,x,x,x,x, and x (to be edited soon) </div>. The German Consulate will process your information and hold onto your passport until you are issued your visa. This typically takes a few days, unless there are issues with your application. This option is the best for ensuring you can begin your work term at Bosch on time.
 
-NOTE: Scheduling an appointment early with the Toronto German Consulate is key. Appointments book quickly and you may end up having to leave UBC during exams and end of term to take care of your visa. This can be extra stressful and not fun. So save yourself the stress and book it early.
+NOTE: Scheduling an appointment early with the <b> Toronto German Consulate is key</b>. Appointments book quickly and you may end up having to leave UBC during exams and end of term to take care of your visa. This can be extra stressful and not fun. So save yourself the stress and book it early.
 
 NOTE: Ok. I'm a US citizen though. Why do I need to go all the way to Toronto to apply for a visa? The simplest answer is that this is the way the German government decided to set up their consulates. You must apply for visas and permits in your country of residence (most likely Canada) and not your country of citizenship. Not all consulates process visa and permit applications (Vancouver's consulate does not), so Toronto is where you gotta go. This is your first taste of German bureaucracy - hold on tight, it's gonna be a wild ride.
 
@@ -181,7 +181,7 @@ Finding a place to live in Stuttgart when you’re 5000km away can be quite chal
 
 <h5> Student Housing </h5>
 
-Student dorms is a very cheap option. However, they are also extremely difficult to get. Check out <a href="https://www.studierendenwerk-stuttgart.de/en/accommodation/">this</a> website for more information, listings, and applications. There are a number of dorms around Stuttgart city centre and in other cities like Ludwigsberg. You must apply online. Although it says applications should be made 6 months in advance, there is still hope if you’re looking for housing in the middle of the semester (i.e. January). After applying online, email them and sound as desperate as possible. Email address can be found in the contact section of the website. Email address of Neckarstasse 172 : ADD HERE. This has been successful for a few of us so far. If you are in Germany, go to their office and talk to them. Office address: ADD HERE.
+Student dorms is a very cheap option. However, they are also extremely difficult to get. Check out <a href="https://www.studierendenwerk-stuttgart.de/en/accommodation/">this</a> website for more information, listings, and applications. There are a number of dorms around Stuttgart city centre and in other cities like Ludwigsberg. You must apply online. Although it says applications should be made 6 months in advance, there is still hope if you’re looking for housing in the middle of the semester (i.e. January). After applying online, email them and sound as desperate as possible. Email address can be found in the contact section of the website. Email address of Neckarstasse 172 : <div class="text-purple"> ADD HERE </div>. This has been successful for a few of us so far. If you are in Germany, go to their office and talk to them. Office address: <div class="text-purple">ADD HERE </div>.
 
 Pros:
 <ul>
@@ -208,7 +208,7 @@ Bosch sent you a list of <i> available accomodations </i> in your contract... in
 Renting your own studio is awesome. You don’t have to share your kitchen and shower with roommates. You don’t have quiet hours. YOU CAN BE FREEEEEEEEE! However, it can quickly become expensive and… our small salary won’t make it to the end of the month. 
 There are two options when you look for your own studio/room. Option one: look on sites such as the German <i><a href="https://www.wg-gesucht.de/">craiglist</a></i> and <i><a href="https://www.uniplaces.com/">Uniplaces</a></i>. Option two: hire an agency to do the scouting for you.
 
-In any case, visit the apartments/houses IN-PERSON before signing a rental contract and/or a paying deposit... for many reasons we’ll explain in a section below [link to section].
+In any case, visit the apartments/houses IN-PERSON before signing a rental contract and/or a paying deposit... for many reasons we’ll explain below. 
 
 <h6> Rental Agencies </h6>
 
@@ -220,7 +220,6 @@ Pros:
 <li> <b> Quality Assurance </b>- The apartment offered through an agency will be clean and quality. They cannot falsely advertise. If an apartment looks decent online, it’s probably worth visiting. </li>
 <li> <b> Reliable </b> - The rental dates, the rental price, etc… What you see in the online ad will be accurate. Therefore, you have little chance of visiting an apartment that will only be available two months after your visit. </li>
 <li> <b> Payment </b> - You will pay rent directly to the agency. The agency then pays the landlord. This limits your chances of being scammed.  </li>
-<br/>
  </ul>
 Cons:
 <br/><br/>
@@ -241,7 +240,7 @@ BONUS: <a href="https://www.toytowngermany.com/forum/topic/372037-tenant-refuses
 
 <h5 id="house_registration"> Housing registration </h5>
 
-Once you’ve found a place to live, signed a rental agreement, and paid your deposit, it’s time to register your housing. Regardless of if you’re a German citizen or an international citizen, everyone must register their place of residence within Germany. To register, bring your passport and signed rental contract to your closest Rathaus (civil office - kind of like a city hall). By completing your housing registration, you’ll also receive an Identifikationsnummer (the German version of a Canadain SIN or an American SSN) in the snailmail. See section X for why this is important. If you don’t receive your Identifikationsnummer in a timely manner, you can pay the Rathaus another visit and directly request it. They should be able to print it out for you on the spot if your housing registration was completed during an earlier visit. 
+Once you’ve found a place to live, signed a rental agreement, and paid your deposit, it’s time to register your housing. Regardless of if you’re a German citizen or an international citizen, everyone must register their place of residence within Germany. To register, bring your passport and signed rental contract to your closest Rathaus (civil office - kind of like a city hall). By completing your housing registration, you’ll also receive an Identifikationsnummer (the German version of a Canadain SIN or an American SSN) in the snailmail. See section <a href="#getting_paid">[3.1]</a> for why this is important. If you don’t receive your Identifikationsnummer in a timely manner, you can pay the Rathaus another visit and directly request it. They should be able to print it out for you on the spot if your housing registration was completed during an earlier visit. 
 
 NOTE: Before leaving Germany, don’t forget to deregister! 
 
@@ -287,7 +286,7 @@ Pros:
 <li> Car share: You can register as a driver to reduce your expenses or guest to join a driver. </li>
 <li> Locations: Public transportation can be annoying from time to time. This car share system can be more tailored to your location for convenience. </li>
 <li> Social: You may end up practicing your German during your commute, or connecting with someone you may have never otherwise met. </li>
-<li> Money: As a guest you pay the driver and as a driver, you receive payment. This is all carried out in the app, making it easy to calculate costs based on distances. </li></ul><br/>
+<li> Money: As a guest you pay the driver and as a driver, you receive payment. This is all carried out in the app, making it easy to calculate costs based on distances. </li></ul>
 
 Cons: 
 <ul>
@@ -419,7 +418,7 @@ This is also a good option since it works on the Renningen campus. You can have 
 
 <h3 id="food"> 3.2 Food - Intern Discount </h3>
 
-Don’t worry about bringing lunch with you. At Renningen, there is a cafeteria where everyone eats. It’s open weekdays from 11:30-14:30. As an intern, you receive a discount of X.XX€ on every meal. Depending on what you choose to eat, you typically spend 1.30€ to 5€ per meal. You pay for food with your Bosch ID card. Your balance can be refilled with cash at the kiosk directly outside the cafeteria.  
+Don’t worry about bringing lunch with you. At Renningen, there is a cafeteria where everyone eats. It’s open weekdays from 11:30-14:30. As an intern, you will have to paid at least 1.30€. Depending on what you choose to eat, you typically spend 1.30€ to 5€ per meal. You pay for food with your Bosch ID card. Your balance can be refilled with cash at the kiosk directly outside the cafeteria.  
 
 <h4>Cafe</h4>
 
@@ -432,7 +431,6 @@ There’s free coffee, milk and sugar in your office! You can make yourself espr
 <h4> Fun fact </h4>
 
 If ever you forget to lock your computer at work and someone sees it, they'll send an email to the whole floor saying you will bring cake. And yes, you’ll be held accountable to bring in cake. Yeah... don't forget to lock your computer or you'll have to bring cake for everyone!
-
 
 <h3 id="flex_time"> 3.3 Flex time/Vacation </h3>
 
@@ -507,7 +505,7 @@ There are many resources out there to aid you in learning German if you’re int
 
 <h3 id="parties"> 5.1 Parties </h3>
 
-There is no parties in Germany. OH WAIT, you ask us about THE OKTOBERFEST? or THE STUTTGART BEER FESTIVAL (twice a year <a href="https://www.wasen.de"> here is the countdown </a> )? OR THE EVERY WEDNESDAY KARAOKE NIGHT (<a href="https://www.biddyearlys.com/biddys-karaoke-party">here</a>)? OR EVEN THE THURSDAY'S BEERPONG (<a href="https://white-noise.eu/programm/beer-pong-stuttgart-3-1/"> here... </a>)? And check out the night clubs out there, they are... interesting! 
+There is no parties in Germany. OH WAIT, you ask us about THE OKTOBERFEST? or THE STUTTGART BEER FESTIVAL (twice a year <a href="https://www.wasen.de"> here is the countdown </a> )? OR THE EVERY WEDNESDAY KARAOKE NIGHT (<a href="https://www.biddyearlys.com/biddys-karaoke-party">here</a>)? OR EVEN THE THURSDAY'S BEERPONG? And check out the night clubs out there, they are... interesting! 
 
 <h3 id="hikes"> 5.2 Hikes </h3>
 
@@ -546,8 +544,8 @@ This group is a helpful resource and community. Comprised of mostly english spea
 The BEST video you will ever see and... <a href="https://www.youtube.com/embed/v2kV6pgJxuo"> need </a>. 
 
  <br/> 
+ Collaboration: Sophia Gut, Alexandre Guichet, Mahdin Ar Rahman, Anand Samra, Rachit Kumar 
  <br/>
- Collaboration: Sophia Gut, Alexandre Guichet, Mahdin Ar Rahman, Anand Samra, Rachit Kumar
  To help improving this page, feel free to send an email to: alexandre.gubc@gmail.com
 </div>
  
