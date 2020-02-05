@@ -4,7 +4,7 @@
 Hallo! Welcome to this .git page. In this repository, UBC students will explain everything needed to settle into Stuttgart and Bosch!
 Please note this page is simply advice based on our experiences. Not all information may be accurate despite our efforts to make it so. 
 
-If you are currently in Stuttgart and would like to update this page, please xyz.
+If you are currently in Stuttgart and would like to update this page, send an email to me! (email at the bottom of this page).
 
 ## Table of Contents  
 <ul>
