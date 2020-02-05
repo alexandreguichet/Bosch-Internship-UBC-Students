@@ -108,7 +108,7 @@ If you receive healthcare through a family member such as a parent or guardian, 
 As a US citizen, you have two options to apply for your visa:
 
 <b>Option One:</b> 
-Before moving to Germany, schedule an appointment with the Toronto German Consulate, and fly to Toronto with all the required documentation for your visa application. You will need <div class="text-purple"> x,x,x,x,x, and x (to be edited soon) </div>. The German Consulate will process your information and hold onto your passport until you are issued your visa. This typically takes a few days, unless there are issues with your application. This option is the best for ensuring you can begin your work term at Bosch on time.
+Before moving to Germany, schedule an appointment with the Toronto German Consulate, and fly to Toronto with all the required documentation for your visa application. You will need <b><i> x,x,x,x,x, and x (to be edited soon) </i></b>. The German Consulate will process your information and hold onto your passport until you are issued your visa. This typically takes a few days, unless there are issues with your application. This option is the best for ensuring you can begin your work term at Bosch on time.
 
 NOTE: Scheduling an appointment early with the <b> Toronto German Consulate is key</b>. Appointments book quickly and you may end up having to leave UBC during exams and end of term to take care of your visa. This can be extra stressful and not fun. So save yourself the stress and book it early.
 
